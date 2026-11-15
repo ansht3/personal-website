@@ -1,3 +1,4 @@
+
 import ThemeToggle from "./components/ThemeToggle";
 
 export default function Home() {
@@ -90,15 +91,23 @@ export default function Home() {
             color: "var(--fg)",
           }}
         >
-          Previously, I worked on AI at{" "}
+          Previously, I worked on AI inference at{" "}
+          <a
+            href="https://meta.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Meta
+          </a>
+          , applied AI at{" "}
           <a
             href="https://apple.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
             Apple
-          </a>{" "}
-          and vehicle software platforms at{" "}
+          </a>
+          , and vehicle software at{" "}
           <a
             href="https://tesla.com/"
             target="_blank"
