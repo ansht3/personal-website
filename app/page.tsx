@@ -142,7 +142,7 @@ export default function Home() {
           I'm big into sports (playing and watching), music, traveling, cooking,
           and photography. I also write occasional blog posts on{" "}
           <a
-            href="https://medium.com/@atandon149"
+            href="https://medium.com/@anshtandon2"
             target="_blank"
             rel="noopener noreferrer"
           >
