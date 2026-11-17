@@ -93,7 +93,7 @@ export default function Home() {
         >
           Previously, I worked on AI inference at{" "}
           <a
-            href="https://meta.com/"
+            href="https://ai.meta.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
